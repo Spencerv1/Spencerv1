@@ -1,6 +1,6 @@
 ### Hello
 
-
+- Recent Computer Science Graduate from Western Governors University 
 - Currently working on a front-end for yt-dlp, a youtube-dl fork
 - How to reach me: spencer@verhoff.net
 
